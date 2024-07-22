@@ -6,5 +6,6 @@ The decoder is removed for better speed now.
 
 This is an example of small power litz wire inductor winding loss. The loss is trained from 2D Ansys Maxwell by self-attention neural network.  
 For definition and training process. Kindly refer 'Small power litz wire ferrite inductor loss model based on neural network'.  
+(https://ieeexplore.ieee.org/document/10401530)
 
 You are more than welcomed to feedback anything on the inductor winding loss AI model.
